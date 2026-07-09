@@ -174,7 +174,7 @@ PhonePe-Transaction-Analysis/
 
 ## 🏠 Home Dashboard
 
-![Home](Images/Home.png)
+![Home](https://github.com/Nikhil-Nandugade/PhonePe-Transaction-Analytics-Dashboard/blob/main/Home_PhonePe_Project.png)
 
 
 ---
